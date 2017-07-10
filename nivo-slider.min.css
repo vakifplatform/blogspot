@@ -79,13 +79,14 @@
 }
 .nivo-directionNav a {
     position: absolute;
-    top: 45%;
+    top: 36%;
     z-index: 9;
     cursor: pointer
 }
 .nivo-prevNav {
     left: 10px;
     font-size: 60px;
+    font-weight: bold;
     font-family: 'Futura';
     color: #ff0080;
 }
@@ -100,6 +101,7 @@
 .nivo-nextNav {
     right: 10px;
     font-size: 60px;
+    font-weight: bold;
     font-family: 'Futura';
     color: #ff0080;
 }
