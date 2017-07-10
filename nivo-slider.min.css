@@ -87,13 +87,13 @@
     left: 10px;
     font-size: 60px;
     font-weight: bold;
-    font-family: 'Futura';
+    font-family: monospace;
     color: #ff0080;
 }
 .nivo-prevNav:hover {
     text-decoration: none;
     font-size: 60px;
-    font-family: 'Futura';
+    font-family: monospace;
     color: #fff;
     text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff0080, 0 0 30px #ff0080, 0 0 40px #ff0080, 0 0 55px #ff0080, 0 0 75px #ff0080;
     text-align: center;
@@ -102,13 +102,13 @@
     right: 10px;
     font-size: 60px;
     font-weight: bold;
-    font-family: 'Futura';
+    font-family: monospace;
     color: #ff0080;
 }
 .nivo-nextNav:hover {
     text-decoration: none;
     font-size: 60px;
-    font-family: 'Futura';
+    font-family: monospace;
     color: #fff;
     text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff0080, 0 0 30px #ff0080, 0 0 40px #ff0080, 0 0 55px #ff0080, 0 0 75px #ff0080;
     text-align: center;
