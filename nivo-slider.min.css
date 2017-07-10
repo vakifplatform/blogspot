@@ -119,6 +119,7 @@
 }
 .nivo-controlNav a {
     padding: 0px 5px 0px 5px;
+    text-decoration: none;
     border-style: outset;
     border-radius: 10px;
     font-size: 200%;
